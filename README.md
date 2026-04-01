@@ -11,6 +11,6 @@ Hi, I am a cybersecurity major currently taking ON3 version of this class. I am 
 [The Iron Claw](https://img.shields.io/badge/The%20Iron%20Claw-Black?link=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt21064584%2F)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/lctd3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/lorenzo-carlo-decastro-089ba1387)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-carlo-decastro-089ba1387/)
 
 "Fear is the mind-killer" -Frank Herbert, Dune
